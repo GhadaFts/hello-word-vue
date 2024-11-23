@@ -66,5 +66,17 @@
       "petsAllowed": false,
       "organizer": "Brody Kill"
     }
+  ],
+  "livres": [
+    {
+      "id": 1,
+      "titre":"As You Like It",
+      "num_pages":"256"
+    },
+    {
+      "id":2,
+      "titre":"On ne Baddine pas avec L'amour",
+      "num_pages":"204"
+    }
   ]
 }
